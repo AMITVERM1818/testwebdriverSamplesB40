@@ -24,6 +24,8 @@ public class GooglePageTest {
 		driver.navigate().forward();
 		driver.navigate().refresh();	
 		
+		System.out.println("Modified in Phase2");
+		
 	}
 
 }
